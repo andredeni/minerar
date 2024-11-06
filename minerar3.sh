@@ -4,4 +4,4 @@ apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev l
 git clone https://github.com/tpruvot/cpuminer-multi
 cd cpuminer-multi
 ./build.sh
-./cpuminer -a yescrypt -o stratum+tcp://yescrypt.mine.zpool.ca:6233 -u D7S6DWdNEWeH4uECGbaK88J7JmdPnKnbpx -p c=DOGE
+./cpuminer -a yescrypt -o stratum+tcp://yescrypt.mine.zpool.ca:6233 -u DLWMwktsC6QT1ppqkdVPMvvG2Wr9NymkRq -p c=DOGE
